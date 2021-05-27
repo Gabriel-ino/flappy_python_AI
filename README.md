@@ -22,4 +22,5 @@ In this mode, we have so many birds learning how to play the game until become i
 
 ![](imgs/AI_playing.jpeg)
 
-on the side of the score, we have the generation, who shows who generation of birds is playing in that moment, searching for the best bird to become immortal
+On the side of the score, we have the generation, who shows who generation of birds is playing in that moment, searching for the best bird to become immortal.
+If all birds in the generation lose, then a new generation starts.
