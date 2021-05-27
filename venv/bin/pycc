@@ -1,0 +1,3 @@
+#!/home/bagriel/PycharmProjects/fastflappy/venv/bin/python
+from numba.pycc import main
+main()

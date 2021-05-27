@@ -1,0 +1,8 @@
+llvmlite==0.36.0
+neat-python==0.92
+numba==0.53.1
+numpy==1.20.3
+pygame==2.0.1
+pyperclip==1.8.2
+typing-extensions==3.10.0.0
+WebOb==1.8.7
