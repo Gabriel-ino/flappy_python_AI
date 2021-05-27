@@ -8,3 +8,4 @@ First, on your command prompt,in the directory where the file is, type:"pip inst
 # Single Player Mode:
 
 If you choose the single player mode, then you'll se a unique bird that you can control pressing the space key:
+![](imgs/single_player.jpeg)
