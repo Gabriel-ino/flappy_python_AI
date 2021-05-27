@@ -11,3 +11,15 @@ If you choose the single player mode, then you'll se a unique bird that you can 
 
 
 ![](imgs/single_player.jpeg)
+
+When you lose, the game closes.
+
+
+# A.I Mode:
+
+In this mode, we have so many birds learning how to play the game until become immortal, something like this:
+
+
+![](imgs/AI_playing.jpeg)
+
+on the side of the score, we have the generation, who shows who generation of birds is playing in that moment, searching for the best bird to become immortal
